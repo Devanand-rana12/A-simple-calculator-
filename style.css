@@ -1,0 +1,55 @@
+body
+{
+    background:rgb(1, 51, 63);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+
+}
+#area{ 
+    margin-bottom: 25px; 
+    text-align:center; 
+    width: 92%; 
+    height: 40px;
+    background: rgb(100, 0, 92);  
+    color:rgb(250, 250, 250); 
+    border: solid black 2px; 
+    position: relative;
+    font-size: 20px;
+
+ 
+    } 
+
+    input[type="button"] 
+    { 
+    background-color:green; 
+    color: black; 
+    border: solid black 2px; 
+    width: 95%;
+    height: 100%;
+    font-size: 25px;
+    padding: 25px;
+    } 
+/*   show the number of calculation  */
+    input[type="text"] 
+    { 
+    background-color:white; 
+    border: solid black 2px; 
+    width: 95% ;
+    height: 70px;
+    font-size: 30px;
+   
+    } 
+
+.header
+    {
+        position: absolute;
+        width: 100%;
+        height: 550px;
+    }
+
+   h1{
+       width: 85%;
+   }
+
